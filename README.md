@@ -38,7 +38,7 @@ After the project is complete, you will be left with all these files. Lets quick
 
 ->Words.pkl — The words.pkl pickle file contains all the unique words that are the vocabulary of our model.
 
-## Steps involved to make the chatbot
+## Methodology
 
 ### Step 1 :- Import Libraries and Load the Data
 Create a new python file and name it as train_chatbot and then we are going to import all the required modules. After that, we will read the JSON data file in our Python program.

@@ -1,0 +1,4 @@
+WordNetLemmatizer
+wordnet
+pros_cons
+reuters

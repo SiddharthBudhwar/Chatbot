@@ -67,7 +67,7 @@ In our GUI file, we will be using the Tkinter module to build the structure of t
 The model will then predict the tag of the user’s message, and we will randomly select the response from the list of responses in our intents file.
 
 ### Chatbot working 
-![Screenshot 2021-10-23 235728](https://user-images.githubusercontent.com/74424623/138588751-bf5eb71e-7122-4059-9c83-7d533b2541bc.png)
+![Screenshot 2021-10-24 152440](https://user-images.githubusercontent.com/74424623/138589073-92a92a9b-feb2-44be-9789-58ecbf4454ab.png)
 
 
 
